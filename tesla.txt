@@ -4,3 +4,5 @@ Spring core
 Hibernate
 GitHub - Version Control
 Maven -Build tool
+Kafka
+Automated deployement pipeline
